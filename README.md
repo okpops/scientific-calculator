@@ -1,4 +1,4 @@
-# [자바스크립트를 이용한 공학 계산기](https://sr-tamim.github.io/scientific-calculator/)
+# [자바스크립트를 이용한 공학 계산기](https://sciecalculator.netlify.app/)
 ### 오프라인 상태에서도 웹 계산기의 모든 기능을 유지합니다.
 
 ##### 공학 계산기의 기능 | 사용되는 언어들 => HTML, CSS, 자바스크립트입니다.
@@ -10,6 +10,6 @@
 - 마지막 답변 자동 저장
 - 오프라인 지원(*온라인으로 계산기를 한 번 방문하면 이 오프라인을 방문할 수 있습니다*)
 
-### [계산기 알아보기](https://sr-tamim.github.io/scientific-calculator/)
+### [계산기 알아보기](https://sciecalculator.netlify.app/)
 
 ###### [*made by OKPOPS / 오케이팝스 *](https://OKPOPS.COM)
